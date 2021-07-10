@@ -1,0 +1,6 @@
+{
+    "block.mytutorial.firstblock": "First Block",
+    "message.firstblock": "This is the first block of this mod. It is directional and has an inventory. It can also generate power at about %s per tick",
+    "screen.mytutorial.firstblock": "FirstBlock Screen",
+    "screen.mytutorial.spawn": "Spawn something"
+}
